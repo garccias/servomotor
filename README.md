@@ -36,6 +36,6 @@ Neste projeto, utilizamos o módulo PWM (Pulse Width Modulation) presente no mic
     - Realizamos um experimento utilizando o LED RGB na GPIO 12 para observar o comportamento da iluminação.
 
 ### 🔗 Link do Vídeo
-[Vídeo de Demonstração](https://www.dropbox.com/scl/fi/i32f4t9dqggn4c1durb4o/2025-02-04-08-52-05.mkv?rlkey=s6ofq9yumuts3h8chte052cuj&dl=0)
+[Vídeo de Demonstração](https://drive.google.com/file/d/1ZjOb5Oba4BBt6PLLUCJknEZ2tVNRFytS/view?usp=sharing)
 
 
